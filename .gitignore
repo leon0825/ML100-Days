@@ -1,5 +1,6 @@
-# 忽略 data 資料夾，不做檔案上傳
+# 忽略「資料夾」，不做檔案上傳
 data/
+.ipynb_checkpoints/
 
-# 忽略開頭 Test 的檔案
+# 忽略「檔案」，不做檔案上傳
 Test*
